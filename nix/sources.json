@@ -1,0 +1,74 @@
+{
+    "cardano-addresses": {
+        "branch": "refs/tags/3.4.0",
+        "description": "Addresses and mnemonic manipulation & derivations",
+        "homepage": "",
+        "owner": "input-output-hk",
+        "repo": "cardano-addresses",
+        "rev": "430c5f98b735c8fea6e2d552650a9f74b0fd477d",
+        "sha256": "0hr6541alfbb5fddjdn4hjx2rfl8j4bld0846hlvav5brn8xv7fm",
+        "type": "tarball",
+        "url": "https://github.com/input-output-hk/cardano-addresses/archive/430c5f98b735c8fea6e2d552650a9f74b0fd477d.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "cardano-node": {
+        "branch": "refs/tags/1.27.0",
+        "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+        "homepage": "https://cardano.org",
+        "owner": "input-output-hk",
+        "repo": "cardano-node",
+        "rev": "8fe46140a52810b6ca456be01d652ca08fe730bf",
+        "sha256": "1c9zc899wlgicrs49i33l0bwb554acsavzh1vcyhnxmpm0dmy8vj",
+        "type": "tarball",
+        "url": "https://github.com/input-output-hk/cardano-node/archive/8fe46140a52810b6ca456be01d652ca08fe730bf.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "niv": {
+        "branch": "master",
+        "description": "Easy dependency management for Nix projects",
+        "homepage": "https://github.com/nmattia/niv",
+        "owner": "nmattia",
+        "repo": "niv",
+        "rev": "527494090f7075ed5e3aa15ef7093846e5e25d52",
+        "sha256": "1hahf0i0iix1iyzaaq5a7rbgyfm3xjcfl69lm1b5mas1p8vdimih",
+        "type": "tarball",
+        "url": "https://github.com/nmattia/niv/archive/527494090f7075ed5e3aa15ef7093846e5e25d52.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "release-20.03",
+        "description": "Nix Packages collection",
+        "homepage": "",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "1db42b7fe3878f3f5f7a4f2dc210772fd080e205",
+        "sha256": "05k9y9ki6jhaqdhycnidnk5zrdzsdammbk5lsmsbz249hjhhgcgh",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs/archive/1db42b7fe3878f3f5f7a4f2dc210772fd080e205.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs-airgap": {
+        "branch": "nixos-20.09",
+        "description": "Nix Packages collection",
+        "homepage": "",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "85ed11208f8c7c981071cc6e33a5fc60c396c38f",
+        "sha256": "0kq0rg6yyfr2pdyn0dmsmls0mdf3v5x0msjisj9v9pmb6k6jr39j",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs/archive/85ed11208f8c7c981071cc6e33a5fc60c396c38f.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "offchain-metadata-tools": {
+        "branch": "refs/tags/v0.2.0.0",
+        "description": "Tools for creating, submitting, and managing off-chain metadata such as multi-asset token metadata",
+        "homepage": "",
+        "owner": "input-output-hk",
+        "repo": "offchain-metadata-tools",
+        "rev": "dd052829f0f070f91edd67cffe073db1622ea55d",
+        "sha256": "0s3bmgjcgn4lx8mx4iwb3i88nvj03cmyfl1ik85xd7y9rcl1sf0q",
+        "type": "tarball",
+        "url": "https://github.com/input-output-hk/offchain-metadata-tools/archive/dd052829f0f070f91edd67cffe073db1622ea55d.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
